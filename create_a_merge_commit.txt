@@ -1,1 +1,2 @@
 Create a merge commit して追加したファイル
+commit積んでみるためにmergeする前にファイルに追記してみる
