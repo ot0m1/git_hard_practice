@@ -1,0 +1,3 @@
+Squash and merge するぞ
+commit 積むぞ
+commit 積むぞ2
