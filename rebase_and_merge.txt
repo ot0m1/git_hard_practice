@@ -1,3 +1,0 @@
-Rebase and mergeする
-commit積む
-commit積む2
