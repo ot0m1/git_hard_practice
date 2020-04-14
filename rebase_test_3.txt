@@ -1,2 +1,3 @@
 rebase test用ファイル
 rebse_test branch で追記
+master branch で commit 進めるための追記
