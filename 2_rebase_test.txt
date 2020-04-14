@@ -1,1 +1,2 @@
 rebaseテスト用ファイル master branchでもcommit進める
+fuga branchでコメント追加
