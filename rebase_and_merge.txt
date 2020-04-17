@@ -1,3 +1,0 @@
-Rebase and merge 用のファイル
-commit 積む
-commit 積む2
